@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "AnarchiaSMP-hTmS.aternos.me:13269",
+    "port": 13269,
     "version": "",
     "try-creative": false
   },
